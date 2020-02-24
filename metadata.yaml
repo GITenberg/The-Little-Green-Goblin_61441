@@ -1,0 +1,33 @@
+_repo: The-Little-Green-Goblin_61441
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Miller, Harry L.
+    gutenberg_agent_id: '31540'
+    url: http://www.gutenberg.org/2009/agents/31540
+creator:
+  author:
+    agent_name: Naylor, J. B. (James Ball)
+    alias: Naylor, James Ball
+    birthdate: 1860
+    deathdate: 1945
+    gutenberg_agent_id: '51430'
+    url: http://www.gutenberg.org/2009/agents/51430
+description: ''
+gutenberg_issued: '2020-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61441'
+  lccn: '07024772'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Goblins -- Juvenile fiction'
+- !lcsh 'Fantasy fiction'
+- GITenberg
+title: The Little Green Goblin
+url: http://www.gutenberg.org/ebooks/61441
